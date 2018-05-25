@@ -1,2 +1,3 @@
-# graduation-study
-あべのさん's graduation study
+# Exercises for Java
+
+Sorry, Comming soon.
